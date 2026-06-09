@@ -1,4 +1,5 @@
 ﻿using HtmlAgilityPack;
+using stvc_mcp.Models;
 
 public class LmsClient
 {
@@ -54,10 +55,3 @@ public class LmsClient
     }
 }
 
-public record Assignment
-{
-    public string Title  { get; init; } = "";
-    public string Url    { get; init; } = "";
-    public string Status { get; init; } = "";
-    public bool   Graded { get; init; }
-}
