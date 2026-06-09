@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stvc-mcp", "stvc-mcp\stvc-mcp.csproj", "{5551AD1D-0496-422B-94D7-3011825CEBAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5551AD1D-0496-422B-94D7-3011825CEBAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5551AD1D-0496-422B-94D7-3011825CEBAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5551AD1D-0496-422B-94D7-3011825CEBAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5551AD1D-0496-422B-94D7-3011825CEBAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
